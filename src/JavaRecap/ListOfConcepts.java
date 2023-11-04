@@ -16,11 +16,12 @@ public class ListOfConcepts {
 11-Wrapper Classes -->Conversion of the data --> AUTOBOXING -->Primitives to Object(Remember List Example)
                    -->Unboxing --> OBJECT to primitive -->PARSING(from string object to double,int..) -->complete
 12-ArrayList --> Queue, List, Set-->Collections --> ArrayList,LinkedList(youtube) -->Complete
-13-Set
-14-Map
-15-Static-Instance Block
-16-StringBuilder
-17-Encapsulation
+13-Set -->HashSet,LinkedHashSet,TreeSet -->Uniqueness -->Complete
+14-Map -->Key-Value -->Set(Key-Uniquenes --> Value --> List) -->Complete
+15-Static-Instance Block -->Keyword -->No object to access methods,variables , sharable(common), ONCE,First line (static block)-->Complete
+16-StringBuilder --> Mutability and Immutability --> name=name.concat(Baldir).replace  name.append(baldir).replcae-->API,reverse String
+   strBuilder.reverse(name), Stringbuilder and buffer (Synchronization) -->COMPLETE
+17-Encapsulation --> hide/protect/restrict/prevent --> PRIVATE  --> GETTER AND SETTER --->COMPLETE
 18-Inheritance
 19-Abstract-Interface
 20-Polymorphism -overloading - overriding

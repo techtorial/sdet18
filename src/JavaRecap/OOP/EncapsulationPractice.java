@@ -16,6 +16,5 @@ public class EncapsulationPractice {
         }else{
             System.out.println("Your Data is not correct");
         }
-
     }
 }
